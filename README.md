@@ -4,7 +4,7 @@ Pixel-perfect implementation of the provided Adobe XD design.
 
 ## 🔗 Links
 - **Live:** [https://popx-assignment-woad-six.vercel.app/](https://popx-assignment-woad-six.vercel.app/)  
-- **Repo:** [https://github.com/Sumit123chandra/popx-assignment](https://github.com/Sumit123chandra/popx-assignment)
+- **Repo:** [https://github.com/AshfakKhan786/popx-assignment]
 
 ## 🛠️ Stack
 - React + Vite  
