@@ -3,7 +3,7 @@
 Pixel-perfect implementation of the provided Adobe XD design.
 
 ## 🔗 Links
-- **Live:** [https://popx-assignment-woad-six.vercel.app/](https://popx-assignment-woad-six.vercel.app/)  
+- **Live:** [https://popx-assignment-gamma.vercel.app/]  
 - **Repo:** [https://github.com/AshfakKhan786/popx-assignment]
 
 ## 🛠️ Stack
