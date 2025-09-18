@@ -16,7 +16,7 @@ Pixel-perfect implementation of the provided Adobe XD design.
 Clone the project:
 
 ```bash
-git clone https://github.com/Sumit123chandra/popx-assignment.git
+git clone https://github.com/AshfakKhan786/popx-assignment.git
 cd popx-assignment
 # propx-Assignment
 # propx-Assignment
