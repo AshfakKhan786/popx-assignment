@@ -13,13 +13,12 @@ const Profile = () => {
             className="w-12 h-12 rounded-full mr-3"
           />
           <div>
-            <h3 className="font-semibold">Sumit Chandra</h3>
-            <p className="text-gray-600 text-sm">chandra78.sumit1@gmail.com</p>
+            <h3 className="font-semibold">Ashfak Khan</h3>
+            <p className="text-gray-600 text-sm">ashfak0404@gmail.com</p>
           </div>
         </div>
         <p className="text-gray-600 text-sm">
-          Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy
-          Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquam Erat, Sed Diam
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, dolorem illum? Voluptatem repellendus impedit natus optio inventore obcaecati. Voluptate magnam odio veniam cupiditate commodi iure impedit, beatae voluptatem porro perspiciatis?
         </p>
       </div>
     </div>
